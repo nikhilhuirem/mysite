@@ -13,6 +13,13 @@ export default function NavBar() {
                     <li>Contact</li>
                 </ul>
             </div>
+            <div>
+                <button>Resume</button>
+            {/* to do 
+                - add a button to toggle between dark and light mode
+                - add a button to change the language`
+            */}
+            </div>
         </div>
     )
 }
