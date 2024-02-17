@@ -41,5 +41,6 @@ Navigation
 intro
 projects
 call to action
+Contacts
 
 
